@@ -1,0 +1,9 @@
+2023/07/14-20:28:37.778 102c45 Reusing MANIFEST /home/mightyficus/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/14-20:28:37.778 102c45 Recovering log #4
+2023/07/14-20:28:37.778 102c45 Reusing old log /home/mightyficus/.config/discord/Local Storage/leveldb/000004.log 
+2023/07/14-20:39:08.983 102c43 Level-0 table #8: started
+2023/07/14-20:39:08.994 102c43 Level-0 table #8: 1742730 bytes OK
+2023/07/14-20:39:08.996 102c43 Delete type=0 #4
+2023/07/15-20:29:06.420 102c43 Level-0 table #10: started
+2023/07/15-20:29:06.432 102c43 Level-0 table #10: 1745049 bytes OK
+2023/07/15-20:29:06.435 102c43 Delete type=0 #7

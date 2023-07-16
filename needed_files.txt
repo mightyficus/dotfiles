@@ -1,0 +1,12 @@
+ttf-hack-nerd
+ttf-noto-nerd
+vim
+python
+(--needed) bluez bluez-utils
+spotify-launcer
+caprine
+signal-desktop
+discord
+ntfs-3g
+picom
+
