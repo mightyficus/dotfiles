@@ -9,4 +9,4 @@ signal-desktop
 discord
 ntfs-3g
 picom
-
+code
